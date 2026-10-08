@@ -10,6 +10,7 @@ The catalog prioritizes datasets with **raw gaze time series**, high sampling ra
 |---|---|---:|---|---|---|---|---|---|
 | [Active Visual Semantics](datasets/active-visual-semantics.md) | 2026-09-01 | 1000 Hz | Yes | Fixation, saccade | **Yes** — 4,080 natural scene images | Eye tracking, MEG, MRI, behavioural data | Sulewski et al., 2026 | Natural scene free viewing; 4,080 scenes; 200,000+ fixation epochs |
 | [NNDb-3T+](datasets/nndb-3t-plus.md) | 2026-07-09 | 1000 Hz | Yes | No dedicated fixation, saccade, or microsaccade labels verified | **Partial** — mapping stimuli and scripts are included; the full *Back to the Future* movie is not redistributed | Eye tracking, fMRI, physiological, behavioural and cognitive data | Levchenko et al., 2026 | Naturalistic movie viewing plus retinotopic, somatotopic, and tonotopic mapping; frame-level gaze synchronization |
+| [Brain, Body, and Behavior Dataset (BBBD)](datasets/bbbd.md) | 2026-04-21 | **128 Hz public release; 500 Hz acquisition** | Yes — released continuous gaze/pupil series are resampled to 128 Hz | Fixation, saccade, blink | **Partial** — 11 educational videos are identified with source URLs; videos are not redistributed by the catalog | Eye tracking, EEG, EOG, ECG, respiration, head motion, behavioural data | Madsen et al., 2026 | 178 participants, ~110 hours, five experiments, synchronized multimodal educational-video viewing |
 
 ## What gets recorded
 
